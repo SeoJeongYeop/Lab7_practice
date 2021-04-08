@@ -1,0 +1,25 @@
+{
+  "name": "sjy-stat-practice",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeoJeongYeop/Lab7_practice.git"
+  },
+  "bin": {
+    "stat2": "./main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeoJeongYeop/Lab7_practice/issues"
+  },
+  "homepage": "https://github.com/SeoJeongYeop/Lab7_practice#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
